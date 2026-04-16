@@ -38,7 +38,7 @@ Built an AI-powered triage system that:
 
 | Dashboard | AI Triage Panel | Performance Metrics |
 |-----------|----------------|-------------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Triage](./screenshots/ai-triage-panel.png) | ![Metrics](./screenshots/performance-metrics.png) |
+| ![Dashboard](01-dashboard.png) | ![Triage](./screenshots/ai-triage-panel.png) | ![Metrics](./screenshots/performance-metrics.png) |
 
 ## Metrics Framework
 
