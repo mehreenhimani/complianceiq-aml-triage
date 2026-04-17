@@ -3,7 +3,7 @@
 > AI-powered AML alert prioritization dashboard that reduces analyst review time by 40%
 > while maintaining 99%+ detection accuracy for suspicious activities.
 
-**[→ Live Demo](https://complianceiq-aml-triage.netlify.app/dashboard)** · **[→ Case Study](./ComplianceIQ_Case_Study_Mehreen.docx)**
+**[→ Live Demo](https://complianceiq-aml-triage.netlify.app/dashboard)** · **[→ Case Study](casestudy/ComplianceIQ_Case_Study_Mehreen.docx)**
 
 ---
 
